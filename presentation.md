@@ -11,14 +11,14 @@ class: center, middle
 
 ---
 
-class: center, middle, inverse, definition
+class: center, middle, inverse
 
 # Coder
 ### Osoba zajmująca się kodem, potocznie programista, osoba znająca się na programowaniu
 
 ---
 
-class: center, middle, definition
+class: center, middle
 
 # Dojo (jap. 道場 dōjō)
 ### "place of the way", określenie w języku japońskim miejsca treningów sztuk walki (aikido, judo, karate, samurai)
